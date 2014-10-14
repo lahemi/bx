@@ -238,3 +238,6 @@ Come and talk to me at #bxbot @ QuakeNet :)
 *   wtf
     > Show definitions for common acronyms.
     > Usage: wtf acronym
+
+*   dogecoin
+    > Display the current Dogecoin exchange rate, from bter. Usage: dogecoin

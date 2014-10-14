@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# By Lauri Peltomäki, all rights given to the original author.
+# By Lauri Peltomäki, all rights given to the original author of the bot.
 from mod_base import *
 import time, json, httplib
 
